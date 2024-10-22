@@ -3,5 +3,6 @@
 <topic id="topic_jf1_bt2_bdc">
     <title>My Rapunzel Retelling</title>
     <shortdesc>The classic German story of Rapunzel, adapted for various age groups<image
-            href="coverimage.jpg" id="image_qhn_nrd_ddc"/></shortdesc>
+            href="coverimage.jpg" id="image_qhn_nrd_ddc" placement="inline"
+            alt="Rapunzel story cover illustration"/></shortdesc>
 </topic>

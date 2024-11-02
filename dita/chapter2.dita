@@ -2,10 +2,11 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_jf1_bt2_bdc">
     <title>Chapter 2 – The Girl in the Tower</title>
-    <shortdesc><image href="rapunzel.jpg" id="image_tlh_cy1_gdc"/>The witch <ph audience="children"
-            >adopts</ph><ph audience="adults">abducts</ph> Rapunzel and brings her to live in a
-        tower.</shortdesc>
+    <shortdesc>The witch <ph audience="children">adopts</ph><ph audience="adults">abducts</ph>
+        Rapunzel and brings her to live in a tower.</shortdesc>
     <body>
+        <image href="rapunzel.jpg" id="image_tlh_cy1_gdc"
+            alt="Digital painting of Rapunzel's tower."/>
         <p>Soon the child was born, a daughter named Rampia. <ph audience="children">The Dowager
                 Goethe showered her new goddaughter with love, and the farmer and his wife agreed
                 that Rampia could stay with her sometimes, so that the widow could teach her in the

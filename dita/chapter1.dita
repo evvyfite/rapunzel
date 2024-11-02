@@ -4,12 +4,13 @@
     <title>Chapter 1 – The Widow's Rampion</title>
     <shortdesc> A farmer begs for rampion from the widow next door.</shortdesc>
     <body>
-        <p>Once upon a time, a farmer and his wife lived in a tiny cottage <image
-                href="rapunzelcottage.jpg" id="image_ntw_z3s_ddc" placement="inline" align="left"
-            />in the German countryside. They worked the land together, raising animals and crops,
-            and they had many friends who flocked to their home for dinner and tea and all manner of
-            parties. The farmer doted on his wife, and she on him, but for all their joys in life,
-            they had never had a child of their own. </p>
+        <image href="rapunzelcottage.jpg" id="image_ntw_z3s_ddc" placement="inline" align="left"
+            alt="Digital painting of a cottage"/>
+        <p>Once upon a time, a farmer and his wife lived in a tiny cottage in the German
+            countryside. They worked the land together, raising animals and crops, and they had many
+            friends who flocked to their home for dinner and tea and all manner of parties. The
+            farmer doted on his wife, and she on him, but for all their joys in life, they had never
+            had a child of their own. </p>
         <p>After many years, their dreams came true, and the farmer's wife announced she was with
             child. The farmer cooked lavish meals for his wife, massaged her back when she was in
             pain, and decorated the nursery with the utmost care and precision.</p>
